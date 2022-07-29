@@ -10,5 +10,3 @@ paperurl: 'https://arxiv.org/pdf/2107.13289.pdf'
 ---
 
 
-
-#Recommended citation: Your Name bappe, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
