@@ -15,5 +15,7 @@ We specify the theory behind this
 and make the link between this regularization term and orthogonality measures. In doing so, we show that this regularization strategy is stable with respect to numerical and optimization errors and that, in the presence of small errors and when the size of the signal/image is large, the convolutional layers remain close to isometric.
 The theoretical results are confirmed with experiments, the landscape of the regularization term is studied and the regularization strategy is validated on real datasets. Altogether, the study guarantees that the regularization with $L_{orth}$ (Wang et al 2020) is an efficient, flexible and stable numerical strategy to learn orthogonal convolutional layers.
 
+a
+
 [pdf](https://arxiv.org/abs/2108.05623.pdf)
 
